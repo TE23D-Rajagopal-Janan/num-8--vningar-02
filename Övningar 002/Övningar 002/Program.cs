@@ -12,11 +12,10 @@ foreach (string lek in leksaker)
 string[] namn = {"Martin", "Matija", "Imad", "Adam", "Saymmon"};
 
 int[] num = {2, 3, 5, 7, 9};
-// string numm;
-// int.TryParse(num, out num)
-foreach (string sentence in num; string lek2 in leksaker; string nam in namn )
+
+for (int i = 0; i < namn.Length; i++)
 {
-    Console.WriteLine($""name" ger "num" "leksaker" till "name");
+    Console.WriteLine(namn[i] + "ger" + leksaker[i] + "betyget" + num[i]);
 }
 Console.ReadLine();
 
