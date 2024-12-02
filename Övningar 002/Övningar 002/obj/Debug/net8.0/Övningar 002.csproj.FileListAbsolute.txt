@@ -12,3 +12,4 @@ C:\Users\janan.rajagopal\Documents\programmering\num 8 Övningar 02\Övningar 00
 C:\Users\janan.rajagopal\Documents\programmering\num 8 Övningar 02\Övningar 002\Övningar 002\obj\Debug\net8.0\Övningar 002.pdb
 C:\Users\janan.rajagopal\Documents\programmering\num 8 Övningar 02\Övningar 002\Övningar 002\obj\Debug\net8.0\Övningar 002.genruntimeconfig.cache
 C:\Users\janan.rajagopal\Documents\programmering\num 8 Övningar 02\Övningar 002\Övningar 002\obj\Debug\net8.0\ref\Övningar 002.dll
+C:\Users\janan.rajagopal\Documents\programmering\num 8 Övningar 02\Övningar 002\Övningar 002\obj\Debug\net8.0\Övningar 002.sourcelink.json
